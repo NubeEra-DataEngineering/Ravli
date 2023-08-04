@@ -1,7 +1,7 @@
 # Databricks notebook source
-access_key = "AKIAW5IZRWOYQSLAZ3SL"
+access_key = "accesskey"
 
-secret_key = "vIPlNfMg+ON+5viuSliYKvo5boUBm7fgxhHjFMCX"
+secret_key = "secretkey"
 
 encoded_secret_key = secret_key.replace("/", "%2F")
 
